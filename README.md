@@ -1,0 +1,2 @@
+# newmaven
+hello maven
